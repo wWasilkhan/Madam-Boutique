@@ -1,0 +1,6 @@
+var demodata1 = {
+    "mytitle1" : "CEO"
+}
+var demodata2 = {
+    "mytitle2" : "DIRECTOR"
+}

@@ -1,0 +1,55 @@
+	*LOEWE
+1. Printed cotton-blend jersey hoodie	lw1-lw4
+2. Embroidered cotton-jersey sweatshirt  lw5-lw8
+3. Anagram cropped brushed wool sweater  lw9-lw12
+4. Appliquéd cable-knit wool sweater	lw13-lw16
+
+	*GUCCI
+5. Appliquéd webbing-trimmed organic cotton-jersey hoodie	ga1-ga4
+6. Printed cotton-jersey hoodie 	ga5-ga8
+7. + Bananya printed cotton-jersey sweatshirt	ga9-ga12
+8. Printed wool-blend fleece and jersey hoodie 	   ga13-ga16
+9. + The North Face embroidered cotton-blend canvas-jacquard and fleece hooded jacket	ga17-ga20
+
+	*LORO PIANA
+10. Girocollo Valsesia wool sweater	lk1-lk4
+11. Embroidered cotton-jersey sweatshirt	lk5-lk8
+12. Printed recycled cotton-jersey sweatshirt	lk9-lk12
+
+	*BRUNELLO CUCINELLI
+13. Cotton-jersey hoodie	bj1-bj4
+14. Cable-knit cashmere sweater	  bj5-bj8
+15. Sequin-embellished striped open-knit sweater    bj9-bj12
+16. Bead-embellished cable-knit cashmere sweater    bj13-bj16
+17. Button-detailed ribbed cashmere turtleneck sweater  bj17-bj20
+18. Sequin-embellished striped open-knit cashmere sweater   bj21-bj24
+
+	*MONCLER
+19. Glossed-shell trimmed cotton-jersey hoodie   mg1-mg4
+20. Printed cotton-blend jersey hoodie		mg5-mg8
+21. Cotton-jersey sweatshirt	mg9-mg12
+22. Glossed-shell and faux shearling hoodie   mg13-mg16
+23. Faux leather-trimmed cotton-blend jersey hoodie   mg17-mg20
+
+	*MARNI
+24. Color-block cashmere sweater	mi1-mi4
+25. Open-back color-block cashmere sweater    mi5-mi8
+26. Intarsia recycled cashmere and wool-blend sweater    mi9-mi12
+27. Cashmere and wool-blend hoodie    mi13-mi16
+28. + Carhartt WIP wool and silk-blend chenille-jacquard sweater    mi17-mi20
+29. Cotton-blend terry sweater   mi21-mi24
+30. Patchwork crochet-knit sweater    mi25-mi28
+31. Floral-print mohair-blend sweater	mi29-mi32
+
+	*BURBERRY
+32. Oversized appliquéd cotton-jersey sweatshirt    bs1-bs4
+33. Appliquéd cotton-jersey hoodie    bs5-bs8
+34. Checked cotton-jersey hoodie     bs9-bs12
+35. Intarsia-knit hoodie	bs13-bs16
+36. Appliquéd wool and cashmere-blend hoodie    bs17-bs20
+
+	*STELLA MCCARTNEY
+37. Festive Smile embroidered intarsia wool-blend sweater		ss1-ss4
+38. + The Beatles Get Back embroidered intarsia cotton sweater	ss5-ss8
+39. Keep In Touch oversized jacquard-knit wool-blend sweater   ss9-ss12
+40. Eco Hero oversized asymmetric intarsia wool sweater	  ss13-ss16
